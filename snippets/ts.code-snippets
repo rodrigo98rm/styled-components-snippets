@@ -1,0 +1,12 @@
+{
+  "Import Styled Components": {
+    "prefix": ["import styled", "isc"],
+    "body": ["import styled from 'styled-components';"],
+    "description": "Import Styled Components"
+  },
+  "Export Component": {
+    "prefix": ["export const", "export component", "esc"],
+    "body": ["export const ${1:Component} = styled.${2:div}`\n\t\n\t${0:}\n\t\n`;"],
+    "description": "Export component with styled-components"
+  },
+}
