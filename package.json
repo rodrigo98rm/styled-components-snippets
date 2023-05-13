@@ -1,6 +1,7 @@
 {
-  "name": "styled-components-snippets",
-  "displayName": "styled-components-snippets",
+  "name": "rodrigo98rm-styled-components-snippets",
+  "displayName": "Styled Components Speed Snippets",
+  "publisher": "rodrigo98rm",
   "description": "Snippets to speed up development with Styled Components",
   "version": "0.0.1",
   "engines": {
